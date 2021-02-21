@@ -22,8 +22,8 @@ Los datos fueron obtenidos por la página oficial de Properati, pre-filtrados po
 ## Orden del repositorio
 Primero, para aquellos que deseen ejecutar el código, los datos pueden descargarlos [aquí](https://drive.google.com/file/d/1AjaUAYMrzpBHHr31aqvNFnhzCQOgrPtH/view?usp=sharing)
 
-En el notebook 'EDA' se realiza el análisis exploratorio de los datos junto con los modelos iniciales, con los que se establece un punto de partida para tener como referencia en los próximos modelos.
+En el notebook 'EDA.ipynb' se realiza el análisis exploratorio de los datos junto con los modelos iniciales, con los que se establece un punto de partida para tener como referencia en los próximos modelos.
 
-En el notebook 'Models' se realiza el modelado y el procesamiento de features con las conclusiones obtenidas en el EDA (junto con otras que fueron surgiendo en el proceso), se establece el modelo final y se obtienen las conclusiones.
+En el notebook 'Models.ipynb' se realiza el modelado y el procesamiento de features con las conclusiones obtenidas en el EDA (junto con otras que fueron surgiendo en el proceso), se establece el modelo final y se obtienen las conclusiones.
 
 
