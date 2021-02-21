@@ -9,7 +9,7 @@ Adicionalmente:
 >*Quienes busquen un nuevo hogar o quieran invertir* en propiedades encontrarán en Properati, además de las ofertas disponibles, valiosa información para tomar las mejores decisiones: promedios de precios, características de los barrios, comparaciones, etc.
 >Properati también ofrece una propuesta novedosa para las *inmobiliarias o agentes* que quieran vender una propiedad, ya que el modelo de negocios se basa en entregar contactos de calidad.
 
-Vemos que Properati brinda servicio tanto a compradores como vendedores. Entre estos servicios está el proporcionar información valiosa y de calidad para facilitar una correcta toma de decisiones, incluyendo los precios. Por lo que comprender cuáles son los las variables que más influyen en éstos y a su vez poder estimar cuál sería el precio más probable o acorde para una determinada propiedad, es sin dudas valioso para los fines del negocio.
+Vemos que Properati brinda servicio tanto a compradores como vendedores. Entre estos servicios está el proporcionar información valiosa y de calidad para facilitar una correcta toma de decisiones, incluyendo los precios. Por lo que comprender cuáles son las variables que más influyen en éstos y a su vez poder estimar cuál sería el precio más probable o acorde para una determinada propiedad, es sin dudas valioso para los fines del negocio.
 
 **El presente proyecto se propone los siguientes objetivos:**
 * Determinar cuáles son las variables que determinan los precios.
