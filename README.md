@@ -20,10 +20,10 @@ El **alcance del proyecto** comprende los bienes inmueble del tipo PH, casas y d
 Los datos fueron obtenidos por la página oficial de Properati, pre-filtrados por Acámica.
 
 ## Orden del repositorio
-Primero, para aquellos que deseen ejecutar el código, los datos pueden descargarlos [aquí](https://drive.google.com/file/d/1AjaUAYMrzpBHHr31aqvNFnhzCQOgrPtH/view?usp=sharing)
-
 En el notebook 'EDA.ipynb' se realiza el análisis exploratorio de los datos junto con los modelos iniciales, con los que se establece un punto de partida para tener como referencia en los próximos modelos.
 
 En el notebook 'Model.ipynb' se realiza el modelado y el procesamiento de features con lo desarrollado en el EDA (junto con otras que fueron surgiendo en el proceso), se establece el modelo y conclusiones finales.
+
+Para aquellos que además de visualizar deseen ejecutar el código, los datos pueden descargarlos [aquí](https://drive.google.com/file/d/1AjaUAYMrzpBHHr31aqvNFnhzCQOgrPtH/view?usp=sharing)
 
 
