@@ -15,7 +15,7 @@ Vemos que Properati brinda servicio tanto a compradores como vendedores. Entre e
 * Determinar cuáles son las variables que determinan los precios.
 * Desarrollar los modelos predictortes de los precios.
 
-El **alcance del proyecto** comprende los bienes inmueble del tipo PH, casas y departamentos en la Ciudad Autónoma de Buenos Aires.
+El **alcance del proyecto** comprende los bienes inmueble del tipo PH, casas y departamentos en la Ciudad Autónoma de Buenos Aires. Entre el 01/01/2019 y el 25/01/2020.
 
 Los datos fueron obtenidos por la página oficial de Properati, pre-filtrados por Acámica.
 
