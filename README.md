@@ -1,5 +1,7 @@
 # Precios de los inmuebles en Buenos Aires
 ## comprensión comercial
+En este caso hipotético, la empresa Properati solicita que con sus datos recolectados se implementen soluciones de ciencia de datos para facilitar la labor de sus tasadores.
+
 Según la página oficial de la empresa:
 >La **misión** de Properati es empoderar a nuestros usuarios para que tengan el mejor camino a su próxima casa, mediante herramientas tecnológicas y datos relevantes. En paralelo, buscamos ayudar a los vendedores a que sean más eficientes y brinden el mejor servicio posible a los potenciales compradores.
 
