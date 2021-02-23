@@ -15,7 +15,7 @@ Vemos que Properati brinda servicio tanto a compradores como vendedores. Entre e
 
 **El presente proyecto se propone los siguientes objetivos:**
 * Determinar cuáles son las variables que determinan los precios.
-* Desarrollar los modelos predictortes de los precios.
+* Desarrollar los modelos de asignación de precios.
 
 El **alcance del proyecto** comprende los bienes inmueble del tipo PH, casas y departamentos en la Ciudad Autónoma de Buenos Aires. Entre el 01/01/2019 y el 25/01/2020.
 
